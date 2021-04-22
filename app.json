@@ -1,8 +1,8 @@
 {
-  "name": "Music Bot",
+  "name": "TG-MusicVCv2",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/ImJanindu/GroupMusicBot",
+  "repository": "https://github.com/W29F/TG-MusicVCv2",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
